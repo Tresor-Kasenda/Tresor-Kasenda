@@ -39,7 +39,6 @@ Technophile || Tech Evangelist || Web Developer || Laravel Lover ||  Google Deve
 [<img alt="redux" width="28px" src="https://img.icons8.com/color/240/000000/redux.png" />](https://redux.js.org/) | 
 [<img alt="html5" width="28px" src="https://img.icons8.com/color/240/000000/html-5.png">](https://developer.mozilla.org/en-US/docs/Web/HTML) |
 [<img alt="css3" width="28px" src="https://img.icons8.com/color/240/000000/css3.png">](https://developer.mozilla.org/en-US/docs/Web/CSS) |
- src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">](https://www.json.org/json-en.html) | 
 [<img alt="Firebase" width="28px" src="https://img.icons8.com/color/240/000000/firebase.png">](https://firebase.google.com) | 
 [<img alt="Git" width="28px" src="https://img.icons8.com/color/240/000000/git.png">](https://git-scm.com/) |
 [<img alt="github" width="28px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">](https://github.com/) |
