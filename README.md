@@ -3,13 +3,9 @@
 <h3 align="center">Contacts</h3>
 <p align="center">
 <strong>
-  
-  <a href="https://twitter.com/TresorKasenda" target="_blank"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-twitter-social-media-justicon-flat-justicon.png" height="40px"/></a>
-  <a href="mailto:scotttresor@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mail.png" height="40px"/></a>
-  <a href="https://www.linkedin.com/in/Tresor-Kasenda/" target="_blank"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" height="40px"/></a>
-  <a href="https://github.com/Tresor-Kasenda" target="_blank"><img src="https://img.icons8.com/stickers/100/000000/github.png" height="40px"/></a>
-</strong>
-</p>
+  [![Linkedin Badge](https://img.shields.io/badge/tresor-kasenda?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tresor-kasenda/)](https://www.linkedin.com/in/tresor-kasenda/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=[(https://t.me/scotttresor)](https://t.me/scotttresor/)
+[![Gmail Badge](https://img.shields.io/badge/scotttresor@gmail.com?style=flat&logo=Gmail&logoColor=white&link=mailto:scotttresor@gmail.com)](mailto:scotttresor@gmail.com)
 
 ---
 Technophile || Tech Evangelist || Web Developer || Laravel Lover ||  Google Developper Student Club
