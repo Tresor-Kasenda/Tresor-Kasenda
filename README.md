@@ -2,11 +2,6 @@
 
 <h3 align="center">Contacts</h3>
 <p align="center">
-<strong>
-  [![Linkedin Badge](https://img.shields.io/badge/tresor-kasenda?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tresor-kasenda/)](https://www.linkedin.com/in/tresor-kasenda/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=[(https://t.me/scotttresor)](https://t.me/scotttresor/)
-[![Gmail Badge](https://img.shields.io/badge/scotttresor@gmail.com?style=flat&logo=Gmail&logoColor=white&link=mailto:scotttresor@gmail.com)](mailto:scotttresor@gmail.com)
-
 ---
 Technophile || Tech Evangelist || Web Developer || Laravel Lover ||  Google Developper Student Club
 --
