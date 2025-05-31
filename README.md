@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tresor kasenda</h1>
 <h3 align="center">A passionate frontend and backend developer from Democratic Republic of Congo</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tresor-kasenda&label=Profile%20views&color=0e75b6&style=flat" alt="tresor-kasenda" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tresor-kasenda" alt="tresor-kasenda" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/tresorkasenda" target="blank"><img src="https://img.shields.io/twitter/follow/tresorkasenda?logo=twitter&style=for-the-badge" alt="tresorkasenda" /></a> </p>
-
 - 🔭 I’m currently working on **project**
 
 - 🌱 I’m currently learning **Python, Spring Boot**
